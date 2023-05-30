@@ -1,0 +1,4 @@
+C:\Users\kebir\source\repos\mylaptop\mylaptop\obj\Debug\mylaptop.csproj.AssemblyReference.cache
+C:\Users\kebir\source\repos\mylaptop\mylaptop\obj\Debug\mylaptop.csproj.CoreCompileInputs.cache
+C:\Users\sdole\OneDrive\Masaüstü\mylaptop\mylaptop\obj\Debug\mylaptop.csproj.AssemblyReference.cache
+C:\Users\sdole\OneDrive\Masaüstü\mylaptop\mylaptop\obj\Debug\mylaptop.csproj.CoreCompileInputs.cache
